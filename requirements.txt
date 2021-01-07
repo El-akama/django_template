@@ -1,0 +1,6 @@
+django==3.1
+pillow
+python-decouple
+python-dateutil
+django-bootstrap4
+django-bootstrap-datepicker-plus
